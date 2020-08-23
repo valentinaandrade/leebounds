@@ -1,0 +1,101 @@
+[1] "Width computation: Column 2"
+   MATH READING WRITING 
+  0.204   0.232   0.261 
+   MATH.upper_bound READING.upper_bound WRITING.upper_bound 
+              0.791               0.794               0.832 
+[1] "Width computation: Column 3"
+   MATH READING WRITING 
+  1.022   1.168   0.985 
+   MATH.upper_bound READING.upper_bound WRITING.upper_bound 
+              1.535               1.674               1.488 
+[1] "Width computation: Column 4"
+   MATH READING WRITING 
+  0.819   0.987   0.776 
+   MATH.upper_bound READING.upper_bound WRITING.upper_bound 
+              1.726               1.992               1.680 
+[1] "Width computation: Column 5"
+   MATH READING WRITING 
+  0.706   0.778   0.624 
+   MATH.upper_bound READING.upper_bound WRITING.upper_bound 
+              1.578               1.659               1.474 
+[1] "Width computation: Column 2"
+   MATH READING WRITING 
+  0.204   0.232   0.261 
+   MATH.upper_bound READING.upper_bound WRITING.upper_bound 
+              0.791               0.794               0.832 
+[1] "Width computation: Column 3"
+   MATH READING WRITING 
+  1.022   1.168   0.985 
+   MATH.upper_bound READING.upper_bound WRITING.upper_bound 
+              1.535               1.674               1.488 
+[1] "Width computation: Column 4"
+   MATH READING WRITING 
+  0.819   0.987   0.776 
+   MATH.upper_bound READING.upper_bound WRITING.upper_bound 
+              1.726               1.992               1.680 
+[1] "Width computation: Column 5"
+   MATH READING WRITING 
+  0.706   0.778   0.624 
+   MATH.upper_bound READING.upper_bound WRITING.upper_bound 
+              1.578               1.659               1.474 
+[1] "Width computation: Column 2"
+   MATH READING WRITING 
+  0.204   0.232   0.261 
+   MATH.upper_bound READING.upper_bound WRITING.upper_bound 
+              0.791               0.794               0.832 
+[1] "Width computation: Column 3"
+   MATH READING WRITING 
+  1.022   1.168   0.985 
+   MATH.upper_bound READING.upper_bound WRITING.upper_bound 
+              1.535               1.674               1.488 
+[1] "Width computation: Column 4"
+   MATH READING WRITING 
+  0.819   0.987   0.776 
+   MATH.upper_bound READING.upper_bound WRITING.upper_bound 
+              1.726               1.992               1.680 
+[1] "Width computation: Column 5"
+   MATH READING WRITING 
+  0.706   0.778   0.624 
+   MATH.upper_bound READING.upper_bound WRITING.upper_bound 
+              1.578               1.659               1.474 
+[1] "Width computation: Column 2"
+   MATH READING WRITING 
+  0.204   0.232   0.261 
+   MATH.upper_bound READING.upper_bound WRITING.upper_bound 
+              0.791               0.794               0.832 
+[1] "Width computation: Column 3"
+   MATH READING WRITING 
+  1.022   1.168   0.985 
+   MATH.upper_bound READING.upper_bound WRITING.upper_bound 
+              1.535               1.674               1.488 
+[1] "Width computation: Column 4"
+   MATH READING WRITING 
+  0.819   0.987   0.776 
+   MATH.upper_bound READING.upper_bound WRITING.upper_bound 
+              1.726               1.992               1.680 
+[1] "Width computation: Column 5"
+   MATH READING WRITING 
+  0.706   0.778   0.624 
+   MATH.upper_bound READING.upper_bound WRITING.upper_bound 
+              1.578               1.659               1.474 
+[1] 3610   40
+[1] "Width computation: Column 2"
+   MATH READING WRITING 
+  0.204   0.232   0.261 
+   MATH.upper_bound READING.upper_bound WRITING.upper_bound 
+              0.791               0.794               0.832 
+[1] "Width computation: Column 3"
+   MATH READING WRITING 
+  1.022   1.168   0.985 
+   MATH.upper_bound READING.upper_bound WRITING.upper_bound 
+              1.535               1.674               1.488 
+[1] "Width computation: Column 4"
+   MATH READING WRITING 
+  0.819   0.987   0.776 
+   MATH.upper_bound READING.upper_bound WRITING.upper_bound 
+              1.726               1.992               1.680 
+[1] "Width computation: Column 5"
+   MATH READING WRITING 
+  0.706   0.778   0.624 
+   MATH.upper_bound READING.upper_bound WRITING.upper_bound 
+              1.578               1.659               1.474 
