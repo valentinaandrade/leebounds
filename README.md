@@ -12,7 +12,7 @@ library(leebounds)
 ```
 # compute basic Lee (2009) bounds for ATE in week 208
 leedata=data.frame(treat=JobCorps_baseline$TREATMNT.y,selection=JobCorps_employment$week_208,outcome=JobCorps_wages$week_208)
-leebounds(leedata)
+GetBounds(leebounds(leedata))
 ```
 # Support
 Vira Semenova: semenovavira@gmail.com
