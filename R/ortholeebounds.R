@@ -412,3 +412,4 @@ treatment_effect_lower_bound<-function(leedata_cov_total,
   return(list(treat_effect_lower_bound=treat_effect_lower_bound_total))
   
 }
+
