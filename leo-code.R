@@ -9,6 +9,7 @@ library(leebounds)
 # install.packages("rqPen") Lasso Logit
 #install.packages("reldist")
 # install.packages("nleqslv") 
+# library(hdm)
 
 
 # Load data ---------------------------------------------------------------
@@ -22,5 +23,5 @@ leedata_rep=data.frame(treat=JobCorps_baseline$TREATMNT.y,selection=JobCorps_emp
 GetBounds(leebounds(leedata_rep))
 
 # Estimate selection
-estimate_selection(leedata_rep, form = leedata_rep$outcome~leedata_rep$treat, selection_function_name = "rlassologit",
+estimate_selection(leedata_rep, form = leedata_rep$selection~leedata_rep$treat + leedata_rep$outcome, selection_function_name = "rlassologit",
                    variables_for_selection = c("outcome", "treat"))
